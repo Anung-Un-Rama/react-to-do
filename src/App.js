@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import ToDo from './components/ToDo';
 
+// this was fun
+
 class App extends Component {
   constructor(props) {
     super(props);
